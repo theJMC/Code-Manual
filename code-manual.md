@@ -18,7 +18,7 @@
 - Columnar (Not in Standard Library - On pip) - Easy tables in Python
 
   - Create a Table: `table = columnar(data, headers)`
-- data = list - Data in the table 
+    - data = list - Data in the table 
     - headers = list - Strings of the Headers
   
 - DateTime - Built In Date and Time module
