@@ -42,7 +42,7 @@
   - Other statements in an if:
     - `elif` - Check for another condition after the first. Uses the same syntax as the input
     - `else` - The final path for an if statement, if all else fails, do this
-- Try / Except Blocks;
+- Try / Except Blocks:
   - 
 
 
