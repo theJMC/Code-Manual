@@ -92,6 +92,9 @@
 ## JavaScript <sub> [*To The Top*](#Code-Manual) </sub>
 
 
+## Linux <sub> [*To The Top*](#Code-Manual) </sub>
+
+
 
 ## Best Practices <sub> [*To The Top*](#Code-Manual) </sub>
 
